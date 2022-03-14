@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83923db3-da59-4109-9225-5c3969f851a0" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/sys/basic/BusMana.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/sys/basic/IndivMana.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/sys/basic/PermissMana.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/sys/basic/SchMana.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/menus.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Login.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Register.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/UserInfo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/per/PerBasicb.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/per/PerBasicm.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/per/PerBasics.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/pt/PtAdd.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/pt/PtDelete.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/pt/PtManage.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/pt/PtStatistic.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/sys/SysBasic.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/sys/SysData.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/sys/SysInit.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/sys/SysLog.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/sys/SysUser.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/user/UserAdv.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/user/UserJob.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/About.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Home.vue" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="yourparttime" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="ProjectId" id="1YVunnA0tdD5WqlqPnphGhbEd7V" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="添加" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="serve" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83923db3-da59-4109-9225-5c3969f851a0" name="默认更改列表" comment="" />
+      <created>1583040251951</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583040251951</updated>
+      <workItem from="1583040254943" duration="7626000" />
+      <workItem from="1583324689980" duration="11213000" />
+      <workItem from="1585382065929" duration="478000" />
+      <workItem from="1585442716156" duration="2173000" />
+      <workItem from="1586652329969" duration="2932000" />
+      <workItem from="1586674589903" duration="245000" />
+      <workItem from="1587393613491" duration="334000" />
+      <workItem from="1587393974644" duration="831000" />
+      <workItem from="1587395228522" duration="5883000" />
+      <workItem from="1587438669453" duration="19599000" />
+      <workItem from="1587633860506" duration="969000" />
+      <workItem from="1587634847117" duration="817000" />
+      <workItem from="1587645065005" duration="38618000" />
+      <workItem from="1588096138562" duration="35000" />
+      <workItem from="1588121213248" duration="948000" />
+      <workItem from="1588600202947" duration="45585000" />
+      <workItem from="1589245556148" duration="14268000" />
+      <workItem from="1590131175754" duration="13694000" />
+      <workItem from="1647238592073" duration="3107000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="580" y="347" key="Github.ShareDialog" timestamp="1647244053923">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="580" y="347" key="Github.ShareDialog/0.0.1440.900@0.0.1440.900" timestamp="1647244053923" />
+    <state width="1419" height="161" key="GridCell.Tab.0.bottom" timestamp="1647247471389">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="161" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1647247471389" />
+    <state width="1419" height="161" key="GridCell.Tab.0.center" timestamp="1647247471388">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="161" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1647247471388" />
+    <state width="1419" height="161" key="GridCell.Tab.0.left" timestamp="1647247471388">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="161" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1647247471388" />
+    <state width="1419" height="161" key="GridCell.Tab.0.right" timestamp="1647247471389">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="161" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1647247471389" />
+    <state x="229" y="86" key="SettingsEditor" timestamp="1647243593454">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="86" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1647243593454" />
+    <state x="506" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1647239591339">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="506" y="371" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1647239591339" />
+  </component>
+</project>
