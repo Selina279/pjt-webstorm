@@ -1,6 +1,5 @@
-# yourparttime
-# 基于VUE+SpringBoot的校园兼职平台
-# 前端代码
+# Campus part-time platform based on Vue + Springboot
+# the webstorm code
 
 ## Project setup
 ```
